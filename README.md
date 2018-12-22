@@ -1,4 +1,6 @@
 # Codeigniter-Login-and-Email
+
+
 ### Register with hash
 ```php
 public function user_registration()
